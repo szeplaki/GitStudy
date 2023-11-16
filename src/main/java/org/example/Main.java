@@ -9,6 +9,7 @@ public class Main {
         for (int i = 5; i < 10; i++) {
             System.out.println(i);
         }
+        System.out.println("Now we push a new feature branch to a remote repo");
     }
 
 }
